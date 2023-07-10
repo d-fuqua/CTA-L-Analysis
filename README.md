@@ -3,8 +3,7 @@
 
 Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/david.fuqua/viz/CTALRidershipDashboard/Dashboard1)
 
-~~Put image of dashboard here~![Dashboard 1](https://github.com/d-fuqua/CTA-L-Analysis/assets/68402521/77e3e5be-ec80-463a-be82-663afbedeafd)
-~
+![Dashboard 1](https://github.com/d-fuqua/CTA-L-Analysis/assets/68402521/77e3e5be-ec80-463a-be82-663afbedeafd)
 
 ## Summary of Insights
 ### Riders per Line:
